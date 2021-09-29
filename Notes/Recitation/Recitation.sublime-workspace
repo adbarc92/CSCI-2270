@@ -1,0 +1,678 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"print",
+				"print_list"
+			],
+			[
+				"prev",
+				"prevCityName"
+			],
+			[
+				"cityName",
+				"cityName"
+			],
+			[
+				"Max",
+				"maxValue"
+			],
+			[
+				"totalN",
+				"totalNumber"
+			],
+			[
+				"ignore",
+				"ignoreWordFileName"
+			],
+			[
+				"Ignore",
+				"ignoreWordFileName"
+			],
+			[
+				"read",
+				"readFileAsText"
+			],
+			[
+				"get",
+				"getMaxIndex"
+			],
+			[
+				"wordList",
+				"wordListCount"
+			],
+			[
+				"word",
+				"wordListCount"
+			],
+			[
+				"wordItem",
+				"wordItemList"
+			],
+			[
+				"current",
+				"currentItem"
+			],
+			[
+				"sec",
+				"secondPtr"
+			],
+			[
+				"int",
+				"intPtr"
+			],
+			[
+				"an",
+				"anIntPtr"
+			],
+			[
+				"ignoreW",
+				"ignoreWordFileName"
+			],
+			[
+				"is",
+				"isStopWord"
+			],
+			[
+				"first",
+				"firstInt"
+			],
+			[
+				"second",
+				"secondRef"
+			],
+			[
+				"items",
+				"itemsSold"
+			],
+			[
+				"seller",
+				"sellerCount"
+			],
+			[
+				"buyer",
+				"buyerCount"
+			],
+			[
+				"curr",
+				"currentItemBuySell"
+			],
+			[
+				"cure",
+				"currentItemBuySell"
+			],
+			[
+				"item",
+				"itemCount"
+			],
+			[
+				"cur",
+				"currentItemType"
+			],
+			[
+				"currentItem",
+				"currentItemPrice"
+			],
+			[
+				"message",
+				"messageBoard"
+			],
+			[
+				"Buy",
+				"BuySell"
+			],
+			[
+				"Jenny",
+				"JennyPtr"
+			],
+			[
+				"Jen",
+				"JennyPtr"
+			],
+			[
+				"Je",
+				"JennyPtr"
+			],
+			[
+				"passby",
+				"passbyVal"
+			],
+			[
+				"make",
+				"make"
+			],
+			[
+				"Node",
+				"Node"
+			],
+			[
+				"count",
+				"countWords"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"Queen",
+				"QueenCheck"
+			],
+			[
+				"Quee",
+				"QueenCheck"
+			],
+			[
+				"unique",
+				"uniqueCount"
+			],
+			[
+				"cou",
+				"countThe"
+			],
+			[
+				"ch",
+				"ch1"
+			],
+			[
+				"str",
+				"str"
+			],
+			[
+				"SC",
+				"SCREEN_WIDTH"
+			],
+			[
+				"SCREE",
+				"SCREEN_WIDTH"
+			],
+			[
+				"SCREEN",
+				"SCREEN_WIDTH"
+			],
+			[
+				"d6",
+				"d6Roller"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"be",
+				"benjamin"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Lab5doublyLL.h",
+			"settings":
+			{
+				"buffer_size": 420,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Lab5doublyLL.cpp",
+			"settings":
+			{
+				"buffer_size": 1866,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Recitation5.cpp",
+			"settings":
+			{
+				"buffer_size": 423,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "#include <iostream>"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/MyC++Build.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/MyC++Build.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/MyC++Build.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 209.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"Packa",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"packageres",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 420.0
+	},
+	"console":
+	{
+		"height": 267.0,
+		"history":
+		[
+			"Install Package",
+			"Package Control: Install Package",
+			"PackageResourceViewer",
+			"PackageResourceController",
+			"Install Package",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ADB/Downloads/Recitation 5 Writeup and Starter Code-20180213/doublyLL.h",
+		"/Users/ADB/Downloads/Recitation 5 Writeup and Starter Code-20180213/doublyLL.cpp",
+		"/Users/ADB/Google Drive/Progs/WaterEmblem/Images/images.txt",
+		"/Users/ADB/Google Drive/Progs/WaterEmblem/WaterEmblemNotes",
+		"/Users/ADB/Google Drive/Progs/WE.cpp",
+		"/Users/ADB/OneDrive/Academics Spring 2018/CSCI2270/Assignments/Assignment1.cpp",
+		"/Users/ADB/OneDrive/Academics Spring 2018/CSCI2270/ClassNotes/09Feb2018.cpp",
+		"/Users/ADB/OneDrive/Academics Spring 2018/CSCI2270/Practice/FunWithNodes.cpp",
+		"/Users/ADB/OneDrive/Academics Spring 2018/CSCI2270/ClassNotes/09Feb2018DoublyLL.h",
+		"/Users/ADB/OneDrive/Academics Spring 2018/CSCI2270/ClassNotes/09Feb2018DoublyLL.cpp",
+		"/Users/ADB/OneDrive/Academics Spring 2018/CSCI2270/ClassNotes/09Feb2018DoublyLL2.cpp",
+		"/Users/ADB/OneDrive/Academics Spring 2018/CSCI2270/ClassNotes/09Feb2018DoublyLL3.cpp",
+		"/Users/ADB/OneDrive/Academics Spring 2018/CSCI2270/ClassNotes/07Feb2018.cpp",
+		"/Users/ADB/OneDrive/Academics Spring 2018/CSCI2270/Practice/PracLLStrings.cpp",
+		"/Users/ADB/OneDrive/Academics Spring 2018/CSCI2270/Practice/LinkedList 2.cpp",
+		"/Users/ADB/OneDrive/Academics Spring 2018/CSCI2270/Practice/LinkedList1.cpp",
+		"/Users/ADB/OneDrive/Academics Spring 2018/CSCI2270/Practice/LinkedList.cpp",
+		"/Users/ADB/OneDrive/Academics Spring 2018/CSCI2270/Practice/LinkedList.h",
+		"/Users/ADB/OneDrive/Academics Spring 2018/CSCI2270/ConceptQuestions.cpp",
+		"/Users/ADB/OneDrive/Academics Spring 2018/CSCI2270/Assignments/Assignment2a.cpp",
+		"/Users/ADB/OneDrive/Academics Spring 2018/CSCI2270/Assignments/Assignment2b.cpp",
+		"/Users/ADB/OneDrive/Academics Spring 2018/CSCI2270/Assignments/Assignment2.cpp",
+		"/Users/ADB/OneDrive/Academics Spring 2018/CSCI2270/Practice/FormatText.cpp",
+		"/Users/ADB/OneDrive/Academics Spring 2018/CSCI2270/ClassNotes/TerminalCommands",
+		"/Users/ADB/OneDrive/Academics Spring 2018/CSCI2270/Practice/WordAnalysis.cpp",
+		"/Users/ADB/Google Drive/Computer Science/Programming/Practice/BenParse.cpp",
+		"/Users/ADB/OneDrive/Academics Spring 2018/CSCI2270/Assignments/BenAssignment1.cpp",
+		"/Users/ADB/Google Drive/Computer Science/Programming/Practice/PracIndividualWordCount.cpp",
+		"/Users/ADB/OneDrive/WritingIdeas, Worldbuilding Development, etc.",
+		"/Users/ADB/OneDrive/Academics Spring 2018/CSCI2270/ClassNotes/Zietz2.cpp",
+		"/Users/ADB/OneDrive/Academics Spring 2018/CSCI2270/Recitation/Lab2a.cpp",
+		"/Users/ADB/OneDrive/Academics Spring 2018/CSCI2270/ClassNotes/22Jan2018.cpp",
+		"/Users/ADB/OneDrive/Academics Spring 2018/CSCI2270/Practice/vessel.txt",
+		"/Users/ADB/OneDrive/Academics Spring 2018/CSCI2270/Practice/gunsmoke.txt",
+		"/Users/ADB/OneDrive/Academics Spring 2018/CSCI2270/Practice/innerdemons.txt",
+		"/Users/ADB/OneDrive/Academics Spring 2018/CSCI2270/ClassNotes/FunWithNodes.cpp",
+		"/Users/ADB/OneDrive/Academics Spring 2018/CSCI2270/ClassNotes/FunWithPointers.cpp",
+		"/Users/ADB/OneDrive/Academics Spring 2018/CSCI2270/Assignments/Makefile",
+		"/Users/ADB/OneDrive/Academics Spring 2018/CSCI2270/ClassNotes/Makefile",
+		"/Users/ADB/Google Drive/Computer Science/Programming/Practice/LinkedList1.cpp",
+		"/Users/ADB/Google Drive/Computer Science/Programming/Complete/PracWordInstanceCount.cpp",
+		"/Users/ADB/OneDrive/Academics Spring 2018/CSCI2270/Assignments/Lab2b.cpp",
+		"/Users/ADB/Downloads/Assignment2.cpp",
+		"/Users/ADB/OneDrive/Academics Spring 2018/CSCI2270/ClassNotes/Pointers24Jan2018.cpp",
+		"/Users/ADB/Google Drive/Computer Science/Programming/DnD/Party Log",
+		"/Users/ADB/OneDrive/Academics Spring 2018/CSCI2270/Assignments/Lab2.cpp",
+		"/Users/ADB/OneDrive/Academics Spring 2018/CSCI2270/Assignments/24Jan2018.cpp",
+		"/Users/ADB/OneDrive/Academics Spring 2018/CSCI2270/Assignments/Lab2a.cpp",
+		"/Users/ADB/OneDrive/Academics Spring 2018/CSCI2270/CSCI2270ClassNotes",
+		"/Users/ADB/OneDrive/Academics Spring 2018/CSCI2270/Assignments/Quiz1b.cpp",
+		"/Users/ADB/OneDrive/Academics Spring 2018/CSCI2270/Assignments/Q1b.cpp",
+		"/Users/ADB/OneDrive/Academics Spring 2018/CSCI2270/19Jan2018Class.cpp",
+		"/Users/ADB/OneDrive/Academics Spring 2018/CSCI2270/22Jan2018.cpp",
+		"/Users/ADB/Library/Application Support/Sublime Text 3/Packages/C++/First.cpp",
+		"/Users/ADB/OneDrive/Academics Spring 2018/CSCI2270/Makefile",
+		"/Users/ADB/Google Drive/Computer Science/Programming/Practice/ClassBasics.cpp",
+		"/Users/ADB/Google Drive/Computer Science/Programming/Practice/ClassVectorBasics.cpp",
+		"/Users/ADB/Google Drive/Computer Science/Programming/Practice/PracPassArray.cpp",
+		"/Users/ADB/Google Drive/Computer Science/Programming/Practice/PracLLStrings.cpp",
+		"/Users/ADB/Google Drive/Computer Science/Programming/Practice/PracWordsLL.cpp",
+		"/Users/ADB/Google Drive/Computer Science/Programming/Practice/RefLLFunctional.cpp",
+		"/Users/ADB/Google Drive/Computer Science/Programming/Practice/Header.h",
+		"/Users/ADB/Google Drive/Computer Science/Programming/Practice/PracBubbleSort.cpp",
+		"/Users/ADB/Google Drive/Computer Science/Programming/Practice/PracQueenCheck.cpp",
+		"/Users/ADB/Google Drive/Computer Science/Programming/Practice/PracDynamicArrays.cpp",
+		"/Users/ADB/Google Drive/Computer Science/Programming/Practice/SolutionBubbleSort.cpp",
+		"/Users/ADB/Google Drive/Computer Science/Programming/PSYCstats.cpp",
+		"/Users/ADB/Google Drive/Computer Science/Programming/OrganizationFrameworks/Bookmarks.cpp",
+		"/Users/ADB/Google Drive/Computer Science/Programming/Practice/PracDefunct.cpp",
+		"/Users/ADB/Google Drive/Computer Science/Programming/OrganizationFrameworks/OrganizationRequisition.cpp",
+		"/Users/ADB/Google Drive/Computer Science/Programming/Practice/PracHelper.cpp",
+		"/Users/ADB/Downloads/Parse.cpp",
+		"/Users/ADB/Google Drive/Computer Science/Programming/Practice/PracTestFunction.cpp",
+		"/Users/ADB/Google Drive/Computer Science/Programming/Practice/PracGenerateCards.cpp",
+		"/Users/ADB/Google Drive/Computer Science/Programming/Practice/PracWordInstanceCount.cpp",
+		"/Users/ADB/Google Drive/Computer Science/Programming/Practice/PracPointerArrays.cpp",
+		"/Users/ADB/Google Drive/Computer Science/Programming/Practice/PracWordCount.cpp",
+		"/Users/ADB/Google Drive/Computer Science/Programming/Practice/PracPointerArrays",
+		"/Users/ADB/Google Drive/Computer Science/Programming/Practice/PracStringReverse.cpp",
+		"/Users/ADB/Google Drive/Computer Science/Programming/Practice/PracTacticsArray.cpp",
+		"/Users/ADB/Google Drive/Computer Science/Programming/OrganizationFrameworks/OrganizationAmazonWistList.cpp",
+		"/Users/ADB/Google Drive/Computer Science/Programming/WaterEmblem/FireEmblem.cpp",
+		"/Users/ADB/Google Drive/Computer Science/Programming/Makefile",
+		"/Users/ADB/Google Drive/Computer Science/Programming/CheckerboardTricks.cpp",
+		"/Users/ADB/Google Drive/Computer Science/Programming/FireEmblem.cpp",
+		"/Users/ADB/Google Drive/Computer Science/Programming/PracBuildStrings.cpp",
+		"/Users/ADB/Google Drive/Computer Science/Programming/StringReverse.cpp",
+		"/Users/ADB/Google Drive/Computer Science/Programming/DnD/5eCharRoller.cpp",
+		"/Users/ADB/Google Drive/Computer Science/Programming/ChooseYourOwnAdventure.cpp",
+		"/Users/ADB/Google Drive/Computer Science/Programming/DnD/5eVallanBuild.cpp",
+		"/Users/ADB/Google Drive/Computer Science/Programming/DnD/Makefile",
+		"/Users/ADB/Google Drive/Computer Science/Programming/DnD/5eMasadosBuild.cpp",
+		"/Users/ADB/Google Drive/Computer Science/Programming/WaterEmblem/main.cpp",
+		"/Users/ADB/Google Drive/Computer Science/Programming/PSYCstats",
+		"/Users/ADB/Google Drive/Computer Science/Programming/OrganizationPhotos.cpp",
+		"/Users/ADB/Google Drive/Computer Science/Programming/OrganizationDistasteful.cpp",
+		"/Users/ADB/Google Drive/Computer Science/Programming/WaterEmblem/Makefile",
+		"/Users/ADB/Google Drive/Computer Science/Programming/GenerateCards.cpp",
+		"/Users/ADB/Google Drive/Computer Science/Programming/Organization.cpp",
+		"/Users/ADB/Google Drive/Computer Science/Programming/WaterEmblem/Examples.cpp",
+		"/Users/ADB/Google Drive/Computer Science/Coding Practice/d6roller.cpp",
+		"/Users/ADB/Google Drive/Computer Science/Coding Practice/5eCharRoller.cpp",
+		"/Users/ADB/Google Drive/Computer Science/Coding Practice/sliceNdice.cpp",
+		"/Users/ADB/Google Drive/Computer Science/Coding Practice/FireEmblem.cpp",
+		"/Users/ADB/Google Drive/Computer Science/Coding Practice/ChooseYourOwnAdventure.cpp",
+		"/Users/ADB/Google Drive/Computer Science/Coding Practice/Header.h",
+		"/Users/ADB/Google Drive/Computer Science/Coding Practice/ArrayPractice.cpp",
+		"/Users/ADB/Google Drive/Computer Science/Coding Practice/ReferencePractice.cpp",
+		"/Users/ADB/Google Drive/Computer Science/Coding Practice/DeclarativePractice.cpp",
+		"/Users/ADB/Google Drive/Computer Science/Coding Practice/PassingInformation.cpp",
+		"/Users/ADB/Google Drive/Computer Science/Coding Practice/String Practice.cpp",
+		"/Users/ADB/Google Drive/Computer Science/Coding Practice/CharacterMatch.cpp",
+		"/Users/ADB/Google Drive/Computer Science/Coding Practice/PracticePracticum.cpp",
+		"/Users/ADB/Google Drive/Computer Science/Coding Practice/SomethingElse.cpp",
+		"/Users/ADB/Google Drive/Computer Science/Coding Practice/SomethingElse.h",
+		"/Users/ADB/Google Drive/Computer Science/Coding Practice/ArrayPractice"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Lab5doublyLL.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 420,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								412,
+								412
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Lab5doublyLL.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1866,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 814.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Recitation5.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 423,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#include <iostream>",
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 78.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/MyC++Build.sublime-build",
+	"project": "Recitation.sublime-project",
+	"replace":
+	{
+		"height": 71.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 115.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

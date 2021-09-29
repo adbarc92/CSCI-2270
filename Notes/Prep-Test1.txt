@@ -1,0 +1,145 @@
+Test 1
+Contents: Lecture (In-Progress), Quiz Questions (In-Progress), Book Readings (Incomplete), Assignments (Incomplete)
+
+- Week 1: C++ Review, Arrays, Structs, File I/O (17Jan2018)
+	- Reading: Chapter 1
+	- Assignment: C++ Review
+	- Concepts: 
+		- Data Structures: a particular way of organizing and storing data in a computer so that it can be accessed and modified efficiently
+			- Can also be abstractions - computational representation of the world; abstract meaningful details for representational
+			- Choosing which data structure to use is vital and dependent on both organizational method and number of operations (primarily the latter)
+		- std::ifstream inFile
+		- 
+	- Quiz Questions: (1/1)
+		- Regular and array variables can be declared on the same line
+		- "inFile.open(filename)" will open the input stream inFile and associate it with the file, filename
+		- "getline(fin,line)" would read an entire line from an input file stream "fin" into a string variable "line"
+
+- Week 2: Algorithms and Pseudocode, Pointers, Dynamic Memory
+	- Reading: Chapters 2, 3
+	- Assignment: Array Doubling, Structs (Community Garage Sale)
+	- Concepts: 
+		- Prototypes
+		- Pointer: a special kind of variable that contains a memory address
+			- Can be reassigned to different memory addresses
+			- Can be used to free up memory easily
+			- Differ from references (&) in that references are pointers that cannot be reassigned
+			- Accessing pointer properties
+			- Dereferenced pointers can use dots
+	- Quiz Questions: (1/3)
+		- The operator for dereferencing a pointer is *
+		- "string *x,y" declares "x" as a pointer to a string and "y" as a string
+		- "&a" gives the memory address of integer variable "a"
+		- The correct value to return to an operating system upon successful completion of a program is "0"
+
+- Week 3: Classes Introduction, Linked Lists
+	- Reading: Chapters 5.1, 5.2
+	- Assignment: Linked Lists (Word Analysis)
+	- Concepts: 
+		- Worst-Case Complexity
+		- Node: 
+			- Contain identifying information and pointer to next Node
+		- Head: 
+		- Tail: 
+		- Linked List: 
+		- Constructor: 
+		- Destructor: 
+			- Automatically called at the end of MAIN to free memory
+			- Also called when going out of scope
+			- Private destructors can exist
+	- Quiz Questions: (2/3)
+		- Statically delcared variables are stored on the Stack, while dynamically-created variables are stored on the Heap
+		- Memory allocated to local variables created dynamically will not be freed when the variable goes out of 
+		- Variables created with dynamically-allocated memory can be declared in any of the following fashions:
+			- int *p = new int(100);
+			- int *p; p = new int; *p = 100;
+			- int *p = NULL; p = new int; *p = 100;
+		- The DELETE keyword is used to release dynamically-allocated memory
+		- The first node in the linked list is called the Head, and the last node is called the Tail.
+		- A linked list node can be implemented in C++ using both Classes and Structs
+		- A singly linked list cannot be traversed backward
+		- While traversing a singly linked list, nodes are accessed via pointers
+
+- Week 4: Linked Lists (09Feb2018)
+	- Reading: Chapter 5
+	- Assignment: Linked Lists (Communication Between Towers)
+	- Concepts: 
+		- Doubly Linked Lists
+	- Quiz Questions: (0/3)
+		- [MISSED]
+
+- Week 5: Stacks, Queues (12Feb2018)
+	- Reading: Chapter 6 (Chapter 7?)
+	- Assignment: Stacks and Queues (Communication Between Towers, Part II)
+	- Concepts: 
+		- Stacks: 
+			- Push: store on stack ("put in")
+			- Pop: retrieve from stack ("get out")
+			- Peek: view top of stack ("view what is on top")
+		- Queues: 
+			- Enqueue: add to queue
+			- Dequeue: remove from queue
+	- Quiz Questions: (2/3)
+		- Stacks follow a last-in-first-out (LIFO) process
+		- Stacks can use linked lists in their implementation
+		- The method of adding an element to the top of the stack is called push; the method of removing an element from the top of the stack is called pop
+		- In a linked list implementation of a stack, data elements are stored in a linked list and the top of the stack refers to the pointer of the node where the next element will be added
+		- When an element is added to the tail of the queue, it is enqueued
+		- When an element is removed from the head of the queue, it is dequeued
+		- When dequeuing an element in a circular queue, the tail position is unchanged while the head position is removed
+		- In a linked list implementation of a queue, both head and tail will change during insertion into an empty queue
+
+- Optional Material
+	- Stack Quiz
+	- Queue Quiz
+	- Array Midterm Review
+	- Doubly Linked Lists Quiz: Series of Questions regarding Next, Previous, Head, Tail, and traversal;
+	- C++ Review
+	- C++ Lecture Notes from Intro Class
+	- Midterm 1 Array Review Question (CodeRunner)
+	- Midterm 1 Linked Lists Review Question (CodeRunner)
+	- Midterm 1 Linked Lists Review Question #2 (CodeRunner)
+
+- Other Concepts: 
+	- Byte:
+		- General Formula (for n bytes): 2^(n*8)-1
+		- Common Types:
+			- Int = 4 bytes
+			- Char = 1 byte
+			- Float = 4 bytes
+			- Long = 8 bytes
+			- Double = 8 bytes
+
+- Primary Concerns
+	- Worst-Case Complexity
+		- Number of Operations
+		- By Data Structure:
+			- 1D Array: O(n)
+			- 2D Array: O(n^2)
+	- Prototypes
+	- Properties (->) vs. Dereferencing (*) Pointers
+	- Classes
+		- Private
+		- Members
+	- Differences between Linked Lists and Arrays
+		- Arrays do not require pointers to indicate next location - memory has already been contiguously allocated
+		- Adding something to an array is faster than adding to a linked list, as the list must be iterated through (assuming there is no tail pointer)
+		- Arrays are faster and likely to use less space
+		- Arrays are of static length (disadvantage)
+	- Seg Faults
+		- LL
+	- VECTORS
+	- Stream
+	- Char*
+	- 
+		- int a = 1; int b = a++; b = 1;
+		- int a = 1; int b = ++a; b = 2;
+
+-------------------------------------------------------------
+
+- Week 6: Binary Trees, Binary Search Trees
+	- Reading: 
+	- Assignment: 
+	- Concepts: 
+		- Binary Search Trees
+	- Quiz Questions:

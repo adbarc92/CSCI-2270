@@ -1,0 +1,34 @@
+Delete(value)
+	// Find node with matching value
+
+Delete(3)
+If no children
+	Determine if node is right child or left of node.parent
+	If left
+		node.parent.left = nullptr
+		delete node
+	If right
+		node.parent.right = nullptr
+		delete node
+
+Delete(7)
+If one child
+	// determine if node > parent or node < parent
+		// if node > parent
+			// 
+	// determine if child > node or child < node
+	
+
+Delete(6)
+If two children
+	// find minimum of node.right subtree
+	// Fix gap between node.parent and node.child
+		// node.parent.left = node.right
+		// node.right.parent = node.parent
+	// Replace node with min
+		// min.parent = node.parent
+		// node.parent.left = min
+		// min.left = node.left
+		// min.right = node.right
+		// node.left.parent = min
+		// node.right.parent = min

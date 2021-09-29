@@ -1,0 +1,33 @@
+Quick Notes
+
+Dereferenced pointers can use dots, while referenced pointers use arrows
+
+
+Nodes contain
+	// Identifying information
+	// What is next (pointer)
+// Head: the starting point of the linked list
+	// This is the necessary piece of using linked lists, because thereafter each node will point to the next
+// Process
+	// Create the first node, which will initially point to NULL
+	// Create a new node (new ID = 2); find end of current list (ID = 1), then make that point to 
+	// Worst case = n;
+		// Keeping track of the tail will allow this to become much faster and more efficient
+
+// Example
+	// Node = 1, Next = NULL
+	// Addition: Node = 2, N1->Next = N2;
+	// Finding the end: iterate through nodes until NEXT=NULL;
+
+// randString.c_str() will convert it to a char*
+
+// Linked List
+
+// Linked lists are a series of memory addresses which point to memory addresses
+// Differences between Linked Lists and Arrays
+	// Arrays do not require pointers to indicate next location - memory has already been contiguously allocated
+// Nodes consist of data stored and a pointer to the next node
+	// First node is called "head," and last node is called "tail
+	// When adding a node, first link new node to next node, then the previous node to the new node
+	// Each node added to the end would point to NULL, while the previous NULL pointer would point to the new end node
+	// To add a node to the beginning, the new node points to the (previous) head node

@@ -1,0 +1,20 @@
+04.20.2018
+
+- Binary heap - any parent nodes has higher priority than its children
+	- Linked List
+	- Array
+		- Root = 1
+		- RootLC = 2
+		- RootRC = 3
+		- LCLC = 4
+		- LCRC = 5
+		- RCLC = 6
+		- RCRC = 7
+		- Parent of a given K is K/2, so long as zero is left unoccupied ( int automatically rounds down )
+		- Left child is 2K
+		- Right child is 2K + 1
+		- Sort by max = max heap; min = min heap
+			- Project is min heap
+	- Heap
+		- If child has greater priority than parent, then the child/parent swap
+		

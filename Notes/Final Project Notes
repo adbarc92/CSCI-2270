@@ -1,0 +1,13 @@
+Final Project Notes
+
+Concerns:
+- Format of Makefile
+- Time both enqueue and dequeue operations
+- Create graph ("Rec15.cpp")
+- Compare Class Notes and Ben's Submission
+- PQueueSTL compared with class notes
+- Libraries:
+	- Functional
+	- Queue
+	- Time.h
+	- Chrono

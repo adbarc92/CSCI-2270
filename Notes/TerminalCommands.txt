@@ -1,0 +1,14 @@
+ls:
+cd: 
+g++ -std=c++11
+./a.out //Executable
+g++ Assignment2.cpp -std=c++11 -o main // Compile
+./main // Run
+-- help // Reveal arguments for command that precedes it
+. // Current directory
+grep -r "main"
+cd ../ // Move back a directory
+
+pwd //Current directory
+
+Running from the command line

@@ -1,0 +1,149 @@
+Week 7: Binary Search Trees - Reading: Chapter 9, 10
+	- Assignment: Assignment 6 - Binary Search Trees
+	- Concepts:
+Week 8: Tree-Traversal Algorithms, Tree Balancing
+	- Reading: Chapter 9, 10, 11
+	- Assignment: Assignment 7 - Binary Search Trees
+	- Concepts:
+		- Orders of Traversal
+			- In-order: nodes are visited in the order left child -> parent -> right child
+			- Pre-order: nodes are visited in the order parent -> left child -> right child
+			- Post-order: nodes are visited in the order left child -> right child -> parent
+Week 9: Red-Black Trees
+	- Reading: Chapter 11: Red-Black Trees (pp. 324-376)
+	- Assignment: 
+	- Concepts: 
+		- Red/Black Trees
+			- RB Insert: same as BST except all nullptrs should be replaced with nullnodes (root->parent = nullNode; left, right = nullnode)
+				- Node inserted is always red
+				- Resolve any issues with P1-5 via balancing methods
+			- Six Cases:
+				1. Red Uncle: recolor parent and uncle to be black, parent.parent to be red
+				2. New Node is right child and uncle is black
+					- X = X.parent;
+					- leftRotate(X);
+					- Resolving case 2 results in case 3
+				3. New node is left child and its uncle is black
+					- Recolor X.parent = black
+					- Recolor X.parent.parent = red
+					- rightRotate(X.parent.parent)
+			- Properties:
+				1. A node is either red or black
+				2. The root node is black
+				3. Every leaf (NULL) node is black
+				4. If a node is red, then both of its children must be black
+				5. For each node in the tree, all paths from that node to the leaf node contain the same number of black nodes
+
+Week 10: Graphs, Breadth-first Search, Depth-first Search
+	- Reading: Chapter 12 (pp. 253-305)
+	- Assignment: Assignment 9 - Graphs
+		- Concepts:
+		- Graphs: G = ( V,E ); captures the connections; can be represented by Adjacency Matrix or Adjacency List
+				- V: set of vertices {v1, v2, ...}
+				- E: set of edges {e1, e2, ...}
+			- Edges: connections between vertices
+			- Vertices: points on the graph
+
+			- Adjacency Matrix (2D Array): table demonstrating the relationships between vertices
+				- Vertices label both axies in order of access from left-to-right and top-to-bottom
+				- Connections are labeled "0" or "1" for no direct connections or direct connections, respectively;
+			- Adjacency List (Array of LL or LL of LLs or Vectors): list of vertices, each of which has a list of connected vertices
+			- Directed Graph: a graph in which certain direction of edges may not exist, such that only one-way travel is possible
+			- Weighted Graph: a graph in which edges have varying weights
+					- Weight: cost of travel; one example would be distance
+				- Directed Weighted Adjacency Matrix: lists weights of edges between vertices, with "-1" representing no direct connection; this matrix will not be symmetrical due to the property of direction
+		
+		- Breadth-first Search (BFS): uses a queue
+		- Depth-first Search (DFS): uses a stack
+
+//----------------------------------------------------------------------------//---------------------------------Spring Break-------------------------------
+//----------------------------------------------------------------------------
+
+Week 12: Graphs
+	- Reading: 
+	- Assignment: Assignment 9 - 
+	- Concepts:
+		- Collision: 
+			- Chaining: resolving collision by way of linked list implementation
+			- Open Addressing: resolving collision by adding records to the hash table at the first identified open location
+	- Quiz Questions:
+		11Apr2018
+			1. An imperfect hash function can lead to (both) collisions and wasted memory space
+			2. Increasing the table size and keeping the hash function unchanged will not reduce collisions.
+			3. Using a multiplication method for finding the index of a key in a hash table, find h( "apple" ), given m = 256 and k = 13/32; h( "apple" ) = 80;
+			4. The best ways to handle collisions include open addressing and chaining. Increasing the size of the hash table is not effective.
+
+
+
+
+Week 13: Graphs, Dijkstras Algorithm
+	- Reading: 
+	- Assignment: Assignment 10 - Graphs
+	- Concepts:
+		- Dijkstra's Algorithm: calculates shortest path from start to desired vertex, "solves" nodes by determining the shortest distance between a series of small paths in order to determine the quickest, overall
+			- Greedy Algorithm - solves locals first, then global
+			- Procedure:
+				1. Mark "Start" vertex as solved, set distance to Start as 0
+				2. Find the unsolved (unvisited) vertices adjacent to Start and calculate the distance to those vertices as the distance to Start plus the edge weight connecting the vertex to Start
+				3. Select the vertex with the shortest distance and mark it as solved. Update the vertex to show its distance to Start. 
+				4. Repeat the process of selecting all unsolved vertices adjacent to all solved vertices, and calculating the distance to those unsolved vertices.
+			- Other Properties:
+				- The distance to any individual point is the shortest distance from Start to that point, the weights of the edges summed
+
+Week 14: Priority Queues, Hash Tables
+	- Reading: 
+	- Assignment: Final Project
+	- Concepts:
+
+Week 15: Hash Tables
+	- Reading: 
+	- Assignment:
+	- Concepts:
+
+Week 16: Special Topics
+	- Reading: 
+	- Assignment:
+	- Concepts:
+
+================General Notes & Concepts================
+
+Chapter 10: Recursion
+	- 10.1: Rules
+		1. Algorithm must include base case, which upon reaching the algorithm should return without successive, recursive calls
+		2. A set of rules that can reduce all cases down to the base case
+
+================Quiz Questions================
+
+02.26.2018
+1. Leaf nodes are those furthest out from the root; height for RB tree is the number of black nodes on a path from a node to leaf
+2. N/A
+3. N/A
+4. N/A
+02.28 - N/A
+03.05.2018
+1. If I consider the root as level 0, the maximum number of nodes at level i of a BST is 2^i
+2. For a BST, traversing the tree in the following sequences is called:
+	(i) Root, Left, Right = Preorder
+	(ii) Left, Root, Right = Inorder
+	(iii) Left, Right, Root = Postorder
+3. For the following tree, the preorder traversal sequence would be: ABDECFG
+	            A
+              /   \
+             B	   C
+            / \   / \
+           D   E F   G
+4. To print the elements of a BST in a strictly ascending order, the necessary traversal would be Inorder.
+03.05.2018 - N/A
+03.07.2018 - N/A
+03.09.2018
+1. Nodes in a RB tree are assigned a color initially, but can be recolored
+2. See Screenshot
+
+03.16.2018
+03.19.2018
+03.21.2018
+04.02.2018
+04.04.2018 - N/A
+04.06.2018 - N/A
+04.09.2018
+04.11.2018
